@@ -30,7 +30,7 @@ struct ContentView: View {
                         .padding()
                 } else {
                     Form {
-                        Section(header: Text("Select Currencies")) {
+                        Section(header: Text("Select Currency")) {
                             Picker("From", selection: $fromCurrency) {
                                 ForEach(currencies, id: \.self) { currency in
                                     Text(currency).tag(currency)
