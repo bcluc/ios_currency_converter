@@ -9,7 +9,7 @@ A simple iOS app built with Swift to convert currencies using real-time exchange
 
 ## Demo
 Watch the demo on YouTube:  
-[![Demo Video]]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtube.com/shorts/hwBDuDJrlVM?feature=share))
+[Demo Video](https://youtube.com/shorts/hwBDuDJrlVM?feature=share)
 
 ## Screenshots
 <img src="CurrencyConverter/Preview Content/Preview Assets.xcassets/normal.imageset/Simulator Screenshot - iPhone 16 Plus - 2024-11-22 at 13.59.00.png" alt="Currency Selection" width="300" />
